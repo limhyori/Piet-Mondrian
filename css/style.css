@@ -1,0 +1,43 @@
+.big-box{position: absolute; 
+width:770px; height:754px;}
+
+.white-box1{position: absolute;
+width:165px; height:224px; background-color:#eeeeed;}
+.black-box1{position: absolute;
+width:165px; height:46px; background-color:black;
+top:224px;}
+.white-box2{position: absolute;
+width:165px; height:272px; background-color:#eeeeed;
+top:270px;}
+.black-box2{position: absolute;
+width:770px; height:22px; background-color:black;
+top:542px;}
+.blue-box{position: absolute;
+width:165px; height:190px; background-color:#04519f;
+top:564px;}
+.black-box3{position: absolute;
+width:22px; height:754px; background-color:black;
+left:165px;}
+.red-box{position: absolute;
+width:583px; height:542px; background-color:#e7160b;
+left:187px;}
+.white-box3{position: absolute;
+width:501px; height:190px; background-color:#eeeeed;
+top:564px; left:187px;}
+.black-box4{position: absolute;
+width:22px; height:190px; background-color:black;
+top:564px; left:688px;}
+.white-box4{position: absolute;
+width:60px; height:78px; background-color:#eeeeed;
+top:564px; left:710px;}
+.black-box5{position: absolute;
+width:60px; height:34px; background-color:black;
+top:642px; left:710px;}
+.yellow-box{position: absolute;
+width:60px; height:78px; background-color:#f4e362;
+top:676px; left:710px;}
+
+
+
+
+
